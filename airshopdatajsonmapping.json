@@ -1,0 +1,32 @@
+{
+  "jsonpaths":[
+    "$['guid']['userGuid']",
+    "$['guid']['transactionGuid']",
+    "$['guid']['messageGuid']",
+    "$['tripType']",
+    "$['multisearchId']",
+    "$['split']",
+    "$['officeId']",
+    "$['searchHost']",
+    "$['cabinClass']",
+    "$['outboundAirport']",
+    "$['inboundAirport']",
+    "$['odPairs']",
+    "$['operatingCarrier']",
+    "$['operatingFlights']",
+    "$['validatingCarrier']",
+    "$['interline']",
+    "$['outboundDepartureDate']",
+    "$['outboundArrivalDate']",
+    "$['inboundDepartureDate']",
+    "$['inboundArrivalDate']",
+    "$['segments']",
+    "$['legsPerSegment']",
+    "$['legsPerSlice']",
+    "$['fare']['base']",
+    "$['fare']['tax']",
+    "$['fare']['fee']",
+    "$['fare']['total']",
+    "$['fare']['currency']"
+  ]
+}
